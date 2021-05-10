@@ -1,7 +1,11 @@
 <?php 
 
 // Raden Rafi
+
 // Pull Req
+
+// aduh
+
 
 // PHP Dasar
 
@@ -18,7 +22,7 @@
 // variabel
 // tidak boleh diawali angka, tapi boleh mengandung angka
 // nama variabel diawali "$"
-$nama = "wiji sylvi";
+$nama = "wiji BUCIN";
 
 // operator
 
@@ -27,7 +31,7 @@ $nama = "wiji sylvi";
 
 // penggabung string / concatenation / concat
 // .
-$nama_depan = "sylvi";
+$nama_depan = "BUCIN";
 $nama_belakang = "prasetyo";
 
 // assignment (untuk melakukan aritmatik dengan variabelnya sendiri)
@@ -54,7 +58,7 @@ $nama_belakang = "prasetyo";
 </head>
 <body>
 	<!-- contoh penulisan sintax 1 -->
-	<h1>hallo, selamat pagi <?php echo "sylvi"; ?></h1> 
+	<h1>hallo, selamat pagi <?php echo "KEPRET"; ?></h1> 
 
 	<!-- contoh penulisan sintax 2 -->
 	<?php 
